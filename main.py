@@ -9,4 +9,9 @@ def making_a_list():
     for i in range(0, len(string), 4):
         output = []
         output.append(string[i])
-    return output 
+    return output
+#commit 2
+
+
+print("Now  i will add a print statement")
+#commit 3
